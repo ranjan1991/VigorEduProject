@@ -1,0 +1,81 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- ToolBar Layout-->
+    <dimen name="toolbar_right_text_padding">@dimen/dimen_margin_10</dimen>
+    <dimen name="toolbar_right_image_padding">@dimen/dimen_margin_10</dimen>
+    <dimen name="toolbar_right_text_size">@dimen/size_13</dimen>
+    <dimen name="toolbar_dashboard_ht">@dimen/dp100</dimen>
+    <dimen name="toolbar_logo_msg_ht">@dimen/dp80</dimen>
+    <dimen name="scroll_signup_ht">@dimen/dp80</dimen>
+
+    <!--default button -->
+    <dimen name="default_btn_ht">@dimen/dp40</dimen>
+    <dimen name="default_btn_wdt">@dimen/dp280</dimen>
+
+    <!-- default edit text-->
+    <dimen name="default_edt_ht">@dimen/dp40</dimen>
+    <dimen name="default_edt_wdt">@dimen/dp280</dimen>
+
+
+    <!--Welcome screen Button-->
+    <dimen name="welcome_screen_btn_width">@dimen/dp280</dimen>
+    <dimen name="welcome_screen_btn_hight">@dimen/dp40</dimen>
+
+
+    <!--How to works screen -->
+    <dimen name="how_to_works_screen_start_btn_width">@dimen/dp120</dimen>
+    <dimen name="how_to_works_screen_start_btn_cornor_radius">@dimen/dp30</dimen>
+
+
+    <!--Dashboard-->
+    <dimen name="dashboard_footer_ht">@dimen/dp60</dimen>
+    <dimen name="dashboard_slider_ht">@dimen/dp175</dimen>
+    <dimen name="categories_ht">@dimen/dp150</dimen>
+    <dimen name="product_row_ht">@dimen/dp220</dimen>
+    <dimen name="favorite_row_wdt">@dimen/dp130</dimen>
+    <dimen name="favorite_row_ht">@dimen/dp200</dimen>
+    <dimen name="coupan_row_wt">@dimen/dp120</dimen>
+    <dimen name="coupan_row_ht">@dimen/dp70</dimen>
+    <dimen name="categories_row_wt">@dimen/dp90</dimen>
+    <dimen name="categories_row_ht">@dimen/dp90</dimen>
+    <dimen name="navigation_categories_row_ht">@dimen/dp65</dimen>
+    <dimen name="navigation_cat_ht">@dimen/dp50</dimen>
+    <dimen name="notification_min_wt">@dimen/dp17</dimen>
+    <dimen name="profile_img_ht">@dimen/dp72</dimen>
+    <dimen name="profile_img_wt">@dimen/dp72</dimen>
+    <dimen name="EditBox_H">@dimen/dp45</dimen>
+    <dimen name="Button_H">@dimen/dp40</dimen>
+
+
+    <!--Categories Dashboard-->
+    <dimen name="categories_dashboard_ad_view_ht">@dimen/dp100</dimen>
+    <dimen name="item_product_list_ht">@dimen/dp110</dimen>
+    <dimen name="item_product_list_image_ht">@dimen/dp90</dimen>
+    <dimen name="item_product_list_image_wdt">@dimen/dp90</dimen>
+    <dimen name="drop_down_ios_ht">@dimen/dp200</dimen>
+
+
+    <dimen name="button_defult_wdt">@dimen/dp100</dimen>
+
+
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp3">2dp</dimen>
+    <dimen name="dp4">2dp</dimen>
+    <dimen name="dp5">2dp</dimen>
+    <dimen name="dp6">2dp</dimen>
+    <dimen name="dp7">2dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp9">9dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp17">17dp</dimen>
+    <dimen name="dp22">22dp</dimen>
+    <dimen name="dp72">72dp</dimen>
+    <!--   Text Size -->
+
+</resources>

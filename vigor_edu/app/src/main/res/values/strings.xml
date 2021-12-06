@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">VigorEDU</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Services</string>
+    <string name="menu_gallery">Contact Us</string>
+    <string name="menu_slideshow">My Account</string>
+
+    ///////////////////////////////////////////////////////////////////
+    <string name="are_your_sure_want_to_logout">Are you sure you want to logout?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_network">No Network</string>
+    <string name="logout_success">Logout Successful</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="login_to_yr_ac">Login to your account</string>
+    <string name="create_a_new_ac">Create a new account</string>
+    <string name="have_an_account">Have an Account ?</string>
+    <string name="you_don_not_hv_an_account">You don not have an Account ?</string>
+    <string name="save">Save</string>
+    <string name="about_us">About Us</string>
+    <string name="google_play">Google Play</string>
+    <string name="this_app_allows_you_to_recommend_an_application_installed_on_your_phone_and_send_that_recommendation_to_a_friend_for">This App allows you to recommend an application installed on your phone and send that recommendation to a friend for!</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="update">UPDATE</string>
+    <string name="update_app">App update available</string>
+    <string name="your_location">Your Location</string>
+    <string name="register_new">Register Now</string>
+    <string name="registration">Registration</string>
+    <string name="new_user_registration">New User Registration</string>
+    <string name="Please_check_Network_Connection">Please check Network Connection!</string>
+    <string name="no_record_found">No Record found</string>
+    <string name="response_is_null">Response is null</string>
+    <string name="image">image</string>
+    <string name="our_services">Our Services</string>
+    //////////////////////////////////////////////////
+</resources>
